@@ -1,1 +1,1 @@
-# smart-crop-advisory-ssytem
+# smart-crop-advisory-system
