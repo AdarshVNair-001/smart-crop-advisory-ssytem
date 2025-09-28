@@ -18,7 +18,7 @@ Datasets Used
 
 Agricultural Pests Image Dataset
 Plant Disease Dataset=https://www.kaggle.com/datasets/emmarex/plantdisease
-Technology Stack=https://www.kaggle.com/datasets/vencerlanz09/agricultural-pests-image-dataset
+pest image dataset=https://www.kaggle.com/datasets/vencerlanz09/agricultural-pests-image-dataset
 
 Frontend: Web-based interface (HTML/CSS/JavaScript or framework of choice)
 Backend: Python (Flask/Django) for model integration and API handling
